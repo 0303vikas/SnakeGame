@@ -1,0 +1,12 @@
+body{
+    margin-left: 0;
+    margin-right: 0;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+canvas{
+    box-shadow: black 20px 10px 50px;
+    /* border: purple 2px dotted; */
+}
